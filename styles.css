@@ -1,0 +1,23 @@
+.map-style{
+	position:absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+    z-index: 0;
+}
+
+.map-overlay {
+    position: absolute;
+    left: 185px;
+    padding: 9px;
+    z-index: 1;
+    font-size: 1.1em;
+    background-color: #265c93;
+    color: whitesmoke;
+    border-radius: 12px;
+    height: 45px;
+    font-weight: 550;
+}
