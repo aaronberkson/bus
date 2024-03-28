@@ -34,4 +34,4 @@ The code that executes once the button is pressed starts at line 219 of mapanima
 
 ## Credits
 This project is part of the MIT xPRO: Professional Certificate in Coding: Full Stack Development with MERN; It combines two exercises a "map animation" exercise and a "real time bus tracker" exercise into a single project.
-Please note I originally only uploaded the "real time bus tracker" and then upon re-reading the instructions which required the files fo the other "map animation" exercise I combined the functionality of both. 
+Please note I originally only uploaded the "real time bus tracker" and then upon re-reading the instructions which required the files of the other "map animation" exercise I combined the functionality of both. 
